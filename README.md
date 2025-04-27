@@ -14,7 +14,7 @@
 :white_check_mark: Conexão Bluetooth com ESP-32  
 :white_check_mark: Envio e recebimento de dados em tempo real  
   
-:heavy_exclamation_mark: Integração com Software Alto-Nível  
+:bangbang: Integração com Software Alto-Nível  
   :arrow_right_hook: Mesmo que já seja possível visualizar a interação do controle com o computador, é necessário integrar o recebimento e envio de dados com o jogo. 
   
 :heavy_exclamation_mark: Melhorar a responsividade do controle  
