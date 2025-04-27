@@ -17,5 +17,5 @@
 :bangbang: Integração com Software Alto-Nível  
   :arrow_right_hook: Mesmo que já seja possível visualizar a interação do controle com o computador, é necessário integrar o recebimento e envio de dados com o jogo. 
   
-:heavy_exclamation_mark: Melhorar a responsividade do controle  
+:question: Melhorar a responsividade do controle  
   :arrow_right_hook: Ainda é necessário estudar maneiras de melhorar a taxa de envio de dados via Bluetooth. Aparentemente, o resultado atual já é satisfatório.  
