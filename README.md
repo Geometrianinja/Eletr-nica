@@ -4,6 +4,7 @@
 :white_check_mark: Compra dos componentes  
 :white_check_mark: Acionamento do VibraCall com auxílio do transistor  
 :white_check_mark: Dimensionamento para encapsular o circuito no modelo 3D do controle  
+:white_check_mark: Teste de funcionamento geral do sistema (isolado)  
   
 :heavy_exclamation_mark: Confecção PCB  
    :arrow_right_hook: Ainda é preciso realizar a soldagem da placa de fenolite.  
